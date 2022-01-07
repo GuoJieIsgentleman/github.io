@@ -103,6 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gitee.com/MrGuojie/blog.git
+  repo: https://github.com/GuoJieIsgentleman/github.io.git
   branch: master
   message:
